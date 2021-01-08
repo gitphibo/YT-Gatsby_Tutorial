@@ -1,0 +1,13 @@
+.page {
+    background: white
+}
+
+.page h3{
+    color: rgb(175, 174, 174);
+    font-family: 'PT Mono', monospace;
+}
+
+.text {
+    text-transform: lowercase;
+    color: rgb(200, 200, 200);
+}
